@@ -23,24 +23,3 @@ I've received my masters (Zoology) degree from Hacettepe University, Turkey. In 
 Nowadays, I am working on adaptive/rapid radiation patterns across bird clades. I use genomic data & reconstructed phylogenetic trees to understand adaptive radiation patterns. 
 
 Besides writing code, I am a huge fan of outdoor activities such as camping, bird-watching, hiking, and climbing! Also I like to be active in academic & student organizations. I am currently Vice President of Graduate Student Association of University Rhode Island and active executive board member of Ecology and Evolutionary Biology Society of Turkey.
-
-
-[[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:erenada@uri.edu"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/erenada"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=MNRPBIkAAAAJ&hl=en&oi=ao"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "https://github.com/erenada"
