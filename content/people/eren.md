@@ -12,7 +12,7 @@ categories = []
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "eren_img.JPG"
-caption = ""
+caption = "E-Mail: erenada@uri.edu ; Twitter: https://twitter.com/erenada"
 
 +++
 
