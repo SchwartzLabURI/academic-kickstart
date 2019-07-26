@@ -1,0 +1,97 @@
+---
+title: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## PI
+
+<img src="rachel.jpg" align="left" hspace="10" width="30%">
+
+Rachel Schwartz is an Assistant Professor at the University of Rhode Island. I run a dry lab focused on computational evolutionary genetics. My interest is in developing methods to understand evolution, with a particular focus on how we analyze large genomics datasets. I also have an interest in reproducible research and in teaching research skills to students and other researchers.
+
+<i class="fa fa-twitter fa-lg"></i> [rachelss](https://twitter.com/rachelss)
+
+<i class="fa fa-github fa-lg"></i> [Github](https://github.com/rachelss)
+
+<i class="fa fa-github fa-lg"></i> [Lab Github](https://github.com/schwartzlaburi)
+
+<i class="fa fa-google fa-lg"></i> [Google Scholar](https://scholar.google.com/citations?user=z-xKqyIAAAAJ&hl=en)
+
+<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:rsschwartz@uri.edu)
+
+<i class="fa fa-file fa-lg"></i>[CV]()
+
+<br clear="all">
+
+<hr>
+## Postdocs
+
+<img src="Bob_And_Rubin.jpg" align="right" hspace="10" width="30%">
+<br><br>
+[Robert (Bob) Literman](bob.html) is an NSF Postdoctoral Fellow developing computational methods to identify and classify high-information and low-information subsets of phylogenomics data. 
+
+<i class="fa fa-twitter fa-lg"></i> [BobLiterman](https://twitter.com/BobLiterman)
+
+<i class="fa fa-github fa-lg"></i> [Github](https://github.com/BobLiterman)
+
+<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:literman@uri.edu)
+
+<br clear="all">
+<img src="tejashree-120x160.jpg" align="left" hspace="10" width="30%">
+<br><br>
+[Tejashree Modak](tejashree.html) is a postdoctoral researcher developing computational tools to identify and characterize duplications in genomes in order to understand their role and evolutionary significance.
+
+<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:tejashree@uri.edu)
+
+<br clear="all">
+
+<hr>
+## Graduate Students
+
+<img src="eren_crop.jpg" align="right" hspace="10" width="30%">
+<br><br>
+[Eren Ada](eren.html) is a PhD student in the Schwartz Lab whose research interests include phylogenomics, bioinformatics, and genomics.
+
+<i class="fa fa-twitter fa-lg"></i> [ErenAda](https://twitter.com/erenada)
+
+<i class="fa fa-github fa-lg"></i> [Github](https://github.com/erenada)
+
+<i class="fa fa-google fa-lg"></i> [Google Scholar](https://scholar.google.com/citations?user=MNRPBIkAAAAJ&hl=en)
+
+<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:erenada@uri.edu)
+
+<i class="fas fa-browser fa-lg"></i> [Website](https://erenada.github.io/)
+
+<br clear="all">
+
+Yana Hrytseno is a PhD student in Computer Science working with Noah Daniels and in the Schwartz Lab.
+
+<i class="fa fa-github fa-lg"></i> [Github](https://github.com/YanaHrytsenko)
+
+<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:yana_hrytsenko@my.uri.edu)
+
+<hr>
+## Undergraduates
+
+Caitlin Guccione (URI MS Applied Math '20 and CS '20) is applying machine learning methods to SISRS output to categorize potentially noise in phylogenetic markers.
+
+Fidaa Janoudi is developing a website for undergraduates to understand the research done at URI.
+
+Tiantian Gousie (URI BIO '20) is using SISRS to examine how different datasets result in different phylogenies in birds. 
+
+Devin McConnell (URI CS '19) is updating and documenting SISRS code.
+
+<hr>
+## Alumni
+
+#### Undergraduates
+
+Baizat Ibrahim (URI CMB '19)
+
+AY Akintomide (URI CMB '20)
+
+Talia Santos (URI BIO '18)
+

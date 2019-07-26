@@ -1,0 +1,10 @@
+---
+title: "Schwartz Lab @ The University of Rhode Island"
+---
+<a href="https://github.com/schwartzlaburi/schwartzlaburi.github.io"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+
+We are a dry lab focused on computational evolutionary genetics. We develop methods and software to understand evolutionary history, with a particular focus on large genomics datasets. Researchers in the lab come from the fields of computer science, math, and evolutionary biology.
+
+We also work to make our research reproducible and teach research skills to students and other researchers.
+
+Interested in joining the lab as a postdoc, grad student, or undergraduate? [Contact me](contact.html).

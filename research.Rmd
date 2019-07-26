@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+## <font color='#3498DB'> Phylogenetically informative data from next-generation sequencing </font>
+
+We have long expected that complete genomic information will provide us with the tools to determine relationships among organisms, from strains of pathogens to the whole tree of life. However, while whole genome sequencing is now possible, extracting information from these data remains challenging. I have developed software (SISRS) to easily identify phylogenetically informative data from raw next-generation sequence data. We have used SISRS data to show that non-coding loci provide more overall signal and a higher proportion of phylogenetic signal compared to coding loci, and different types of loci (e.g. coding vs. introns) have surprisingly consistent levels of information across time scales. 
+
+### Related publications
+
+Literman, R. and R.S. Schwartz. 2019. Genome-scale profiling reveals higher proportions of phylogenetic signal in non-coding data. BioRxiv Preprint.
+
+Harkins, K.M., R.S. Schwartz, R.A. Cartwright, and A.C. Stone. 2016. Phylogenomic reconstruction supports supercontinent origins for Leishmania. Infection, Genetics and Evolution 38: 101-109.
+
+Schwartz, R.S., K.M Harkins, A.C. Stone, and R.A. Cartwright. 2015. A composite genome approach to identify phylogenetically informative data from next-generation sequencing. BMC Bioinformatics. 16:193.
+
+*This research was funded by NSF grant DBI-1356548 to R. Cartwright, funding from URI, and an NSF postdoctoral fellowship to R. Literman.*
+
+<hr>
+
+## <font color='#3498DB'> Estimating diversification rates from phylogenies </font>
+
+### Related publications
+
+Schwartz, R.S. and R.L. Mueller. Branch length estimation and divergence dating: estimates of error in Bayesian and maximum likelihood frameworks. BMC evolutionary biology 10: 5.
+
+*This research was funded by an NSF postdoctoral fellowship to R. Schwartz and funding from URI.*

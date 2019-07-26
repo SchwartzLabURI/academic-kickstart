@@ -1,0 +1,28 @@
+---
+title: "Tejashree Modak"
+---
+
+<img src="tejashree-120x160.jpg" align="right" hspace="10" width="30%">
+
+Current research project: My postdoctoral research is focused on developing a pipeline for identifying and characterizing duplications in genomes in order to understand their role and evolutionary significance. Currently I am using the eastern oyster as a model organism to design and test the CNV pipeline. 
+
+Interests: I am interested in using computational biology approaches including designing pipelines to analyze various omics data to study evolutionary biology. 
+I have research experience in a range of topics including behavioral ecology, microbiology, phylogenetics, invertebrate immunology, host-microbe interaction and most recently structural variation. 
+My research areas of interest include comparative immunology, comparative genomics, host-microbe interaction and broadly evolutionary biology. I am also interested in developing industrial applications informed by my research. For example, my dissertation research explains underlying molecular mechanisms and advantages of using probiotics in larviculture of oysters. 
+
+## Publications 
+### In prep
+Modak T and Gómez-Chiarri M. Characterization of Crassostrea virginica larval response to Vibrio coralliilyticus RE22.
+
+Modak T and Gómez-Chiarri M. Immunological response of Crassostrea virginica larvae to probiotics Bacillus pumilus RI06-95 and Phaeobacter inhibens S4.
+
+Sohn S, Modak T, Schmidt V, Dao C, Hamblin M, Gómez-Chiarri M, Worthen D.R, Markey Lundgren   K, Tammi K, Smolowitz R, Gregg L, Allen Jr. SK, Nelson D., and Rowley D. Use of formulated probiotic Bacillus pumilus RI06-95 for preventing Vibriosis in larviculture of the Eastern oyster Crassostrea virginica.
+
+### Published
+Stevick R, Sohn S, Modak T, Nelson D., and Rowley D., Tammi K, Smolowitz R, Post A, Gómez-  Chiarri M. Bacterial community dynamics in an oyster hatchery in response to probiotic treatment. Frontiers in Microbiology. 10:1060. 
+
+McDowell, I., Modak, T., Lane, C., and Gomez-Chiarri, M. (2016). Multi-species protein similarity clustering reveals novel expanded immune gene families in the eastern oyster Crassostrea virginica. Fish Shellfish Immunology. 53, 13–23.
+
+Modak T., Pradhan S. and Watve M. (2007) Sociobiology of Biodegradation and the Role of Predatory Protozoa in Biodegrading Communities. Journal of Biosciences. 32, 775- 780.
+
+

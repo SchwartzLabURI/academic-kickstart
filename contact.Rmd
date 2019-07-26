@@ -1,0 +1,9 @@
+---
+title: "Contact me"
+---
+
+**If you're interested in a position in the lab read [this](positions.html) before contacting me**
+
+rsschwartz@uri.edu
+
+Department of Biological Sciences, University of Rhode Island, USA

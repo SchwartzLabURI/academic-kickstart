@@ -1,0 +1,28 @@
+name: "Schwartz Lab URI"
+output_dir: "."
+navbar:
+  title: "Welcome to the Schwartz Lab @ URI"
+  left:
+    - text: "People"
+      href: people.html
+    - text: "Research"
+      href: research.html
+    - text: "Software"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Contact"
+      href: contact.html
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/schwartzlaburi
+    - icon: fa-university fa-lg #from https://fontawesome.com/v4.7.0/icons/
+      href: https://www.uri.edu/
+output:
+  html_document:
+    toc: false
+    theme: flatly
+#    includes:
+#      in_header: header.html
+#      before_body: doc_prefix.html
+#      after_body: doc_suffix.html

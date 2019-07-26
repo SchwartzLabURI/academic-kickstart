@@ -1,0 +1,10 @@
+---
+title: "Software"
+---
+
+<img src="sisrs.png" align="left" hspace="10" width="30%">
+
+### SISRS: SNP Identification from Short Read Sequences
+Link: [GitHub](https://github.com/SchwartzLabURI/SISRS)
+
+SISRS — pronounced “scissors” — is a program for identifying phylogenetically informative sites from next-generation whole-genome sequencing of multiple species. It identifies homologous sites without the need to do de novo assembly, annotation, and alignment. It identifies conserved regions by doing joint de novo assembly on multiple species. Sequencing reads are then aligned back to the contigs to identify variable sites.

@@ -1,0 +1,35 @@
+---
+title: "Teaching"
+---
+
+## <font color='#3498DB'> Big Data Analysis </font>
+This course teaches students to analyze large datasets correctly and efficiently. We discuss methods for analysis of big data, and how to get research done more efficiently using basic scientific computing skills. We cover data management, statistical methods, task automation, and how to make data analysis clear and reproducible. No prior programming experience is required. 
+
+<button type="button" class="btn btn-primary btn-sm">[Course website](https://rachelss.github.io/BigDataAnalysis19)</button>
+<br>
+
+## <font color='#3498DB'> The Information Age </font>
+Big data affects virtually every area of our society, from the advertising we see, to how we think about politics, to genome-based medicine. Our ability to collect immense amounts of information has the potential to improve many aspects of our lives, but it can also be misleading and biased. This course considers how data are analyzed and how results from those analyses are used to make policy in an increasingly data-driven world. 
+
+<button type="button" class="btn btn-primary btn-sm">[Course website](https://schwartzlaburi.github.io/BIO181G_Fall18/)</button>
+
+<br>
+
+## <font color='#3498DB'> Ecological Data Analysis </font>
+This course helps students learn how to analyze ecological data. Students gain general quantitative skills, reinforce knowledge of ecological concepts, and learn how to integrate concepts to answer biological questions.
+
+<button type="button" class="btn btn-primary btn-sm">[Course website](https://rachelss.github.io/BIO263_Fall18/)</button>
+<button type="button" class="btn btn-primary btn-sm">[Course materials](https://github.com/rachelss/BIO263_Fall18/tree/master/instructor_cheatsheets)</button>
+
+<br>
+
+## <font color='#3498DB'> R Seminar: Shiny Apps </font>
+This course helped graduate students build their first Shiny app in R to communicate their research.
+
+<button type="button" class="btn btn-primary btn-sm">[Course website](https://rhodyrstats.github.io/bio594_spring19)</button>
+<button type="button" class="btn btn-primary btn-sm">[Shiny Apps](https://rhodyrstats.github.io/bio594_spring19/apps.html)</button>
+
+<br>
+
+## <font color='#3498DB'> R Seminar </font>
+
