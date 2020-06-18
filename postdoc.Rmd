@@ -1,0 +1,41 @@
+---
+title: "Postdoctoral Position"
+---
+
+The Schwartz Lab in the College of the Life Sciences and the Environment at the University of Rhode Island is hiring a Postdoctoral Researcher for a project funded by the National Science Foundation.
+The researcher will use computational tools, including machine learning, to examine phylogenetic datasets.
+The postdoc will be expected to lead data analysis, apply for additional funding, collaborate with graduate students and undergraduates, and produce results resulting in publications.
+Prior experience with genetic data, phylogenetics, and scripting is expected.
+No prior experience with machine learning is necessary, but a willingness to learn is required.
+The position will be for one year with the expectation of renewal on successful performance.
+
+Please read the [expectations and responsibilities](positions.html) prior to applying for this position.
+
+Required skills and expectations:
+* PhD by the time of hire in a biological or computational field with work relevant to bioinformatics and evolutionary biology
+* Record of academic success, including at least one published paper
+* Background in phylogenetics and evolution
+* Experience with genome sequence data including building phylogenies in RAxML, IQTree, or similar
+* Experience coding in R, Python, or another language
+* Commitment to supporting diverse students and an inclusive lab environment
+
+Preferred skills: 
+* Experience working in an HPC environment
+* Experience developing software (e.g. R packages)
+* Experience with machine learning tools (e.g. Scikit-learn)
+* Interest in open-access and reproductible research
+
+I recognize that many people will not be in a position to relocate immediately.
+The position may begin remotely, although the postdoc will be expected to relocate by summer 2020.
+
+Salary: $50,000 plus family medical benefits. A limited moving subsidy and necessary computing equipment will be provided.
+
+Location: URI is located in the southern part of Rhode Island, approximately a 40 minute drive from Providence and a 10 minute drive to multiple beaches. The Schwartz Lab is housed on the main URI campus in Kingston in the new Center for Biotechnology and the Life Sciences.
+
+To apply, please submit the following applications materials:
+- Cover letter
+- CV
+- Names of three academic/professional references
+
+Submit application materials and any questions about this position to Rachel Schwartz, rsschwartz@uri.edu.
+Application review will begin on August 1 with an expected start date between January 1 and June 30, 2021.
