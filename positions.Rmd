@@ -2,17 +2,21 @@
 title: "Lab positions"
 ---
 
-### Prospective Postdocs
+### Prospective Lab Members
 
 [Available postdoc position in the lab](postdoc.html)
 
-If you are interested in joining my lab as a postdoc, graduate student, or undergraduate student please read through [the research projects](research.html) in the lab, and the expectations and responsibilities below, then email me 1) your curriculum vitae / resume, and 2) one page cover letter describing your research interests and background. 
+**Prospective postdocs**: If you are interested in joining my lab as a postdoc please read through [the research projects](research.html) in the lab, and the expectations and responsibilities below, then email me 1) your curriculum vitae / resume, and 2) one page cover letter describing your research interests and background. 
+
+**Prospective undergraduates**: If you are interested in joining my lab as an undergraduate please read through [the research projects](research.html) in the lab, and the expectations and responsibilities below, then email me 1) your curriculum vitae / resume, and 2) a paragraph describing your coursework, other experience, and why you are interested in working in my lab. 
+
+**Prospective graduate students**: If you are interested in joining my lab as a graduate student please read through [the research projects](research.html) in the lab, the following information, and the expectations and responsibilities below. 
 
 If you are interested in joining my lab as a graduate student, please contact me by email as early as possible. The deadline for the receipt of completed applications is January 15 for admission to the Fall semester. I accept MS and PhD students through the Biological and Environmental Sciences graduate program (http://web.uri.edu/cels-gradprograms/bes/) in the College of the Environement and Life Sciences, with a specialization in Evolutionary Biology (https://web.uri.edu/cels-gradprograms/bes/emb/) or Cell and Molecular Biology (https://web.uri.edu/cels-gradprograms/bes/cmb/). Support is available through TA and RA positions.
 
-If you're interested in graduate school, show me you have the potential to do well in graduate school. Potential means you can communicate well in your email, you have done research as an undergraduate or graduate student (so you know that’s what you want to do for the next 2-5 years), and you work hard. However, don't feel intimidated by these requests. If you got excited about something you learned in class and haven't done research contact me anyway. I do not require prior programming experience. However, you should expect to do a lot of computational work in the lab, so make sure that spending time computing sounds okay. See [here](https://sukumaranlab.org/resources/computational-skills/#a-modern-robust-object-oriented-and-scaleable-scripting-language-python) for some things you'll learn.
+Send me a one page cover letter describing your research interests and background. If you're interested in graduate school, show me you have the potential to do well in graduate school. Potential means you can communicate well in your email, you have done research as an undergraduate or graduate student (so you know that’s what you want to do for the next 2-5 years), and you work hard. However, don't feel intimidated by these requests. If you got excited about something you learned in class and haven't done research contact me anyway. I do not require prior programming experience. However, you should expect to do a lot of computational work in the lab, so make sure that spending time computing sounds okay. See [here](https://sukumaranlab.org/resources/computational-skills/#a-modern-robust-object-oriented-and-scaleable-scripting-language-python) for some things you'll learn.
 
-Send your C.V. or resume. It helps me to see your experience. If you don’t know what a C.V. should look like, look at mine. You don’t have to have extensive experience, but I want to see you’ve been working toward your goals in school and research.
+Send your C.V. or resume. It helps me to see your experience. If you don’t know what a C.V. should look like, look at mine. You don't have to have extensive experience, but I want to see you’ve been working toward your goals in school and research.
 
 For additional advice see http://theprofessorisin.com/2011/07/25/how-to-write-an-email-to-a-potential-ph-d-advisor/
 
@@ -21,18 +25,18 @@ For additional advice see http://theprofessorisin.com/2011/07/25/how-to-write-an
 * Conduct research in phylogenomics / bioinformatics as appropriate to your funding, making regular progress 
 * Communicate regularly with the professor 
 * Write and submit manuscripts
-* Apply for external funding (either individual postdoc fellowships or contribute to larger grants)
+* Apply for external funding (either individual fellowships or contribute to larger grants)
 * Maintain data, code, and documentation in a reproducible way available on the HPC and/or github
-* Support the research of other lab members, including assisting with manuscipts and coding
+* Support the research of other lab members, including assisting with manuscripts and coding
 * Participate in weekly lab meetings
-* Contribute to a collaborative atmosphere in the lab
+* Contribute to an inclusive and collaborative atmosphere in the lab
 * Be available in the lab for a minimum pre-arranged set of hours to facilitate interactions
 
 #### How I will support you
 
-* Support the development of project ideas, including independent projects that can be taken with the postdoc
+* Support the development of project ideas
 * Collaborate on papers 
-* Assist with writing postdoctoral fellowships and grants
+* Assist with writing fellowship and grant applications
 * Collaboratively develop a career plan and support you gaining the skills you need to work toward your goals
 * Support travel to at least one meeting per year
 * Meet regularly to discuss progress and plan future work
