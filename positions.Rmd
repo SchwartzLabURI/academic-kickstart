@@ -2,13 +2,13 @@
 title: "Lab positions"
 ---
 
-## Before contacting me
+### Prospective Postdocs
 
-Undergrads: skip to the bottom
+[Available postdoc position in the lab](postdoc.html)
 
-Prospective graduate students and postdocs: please read this website and my papers before contacting me. Know that you are interested in working in my area of research. If your email states a vague interest such as "bioinformatics" or "evolution" it significantly reduces the chances I’ll write back.
+If you are interested in joining my lab as a postdoc, graduate student, or undergraduate student please read through [the research projects](research.html) in the lab, and the expectations and responsibilities below, then email me 1) your curriculum vitae / resume, and 2) one page cover letter describing your research interests and background. 
 
-Please let me know your research interests. I want to work with people who have their own ideas and goals. If you are a prospective graduate student let me know what have you done that was really exciting and you would like to investigate further. If you are finishing graduate school consider what research questions could we work on together and develop into a grant application.
+If you are interested in joining my lab as a graduate student, please contact me by email as early as possible. The deadline for the receipt of completed applications is January 15 for admission to the Fall semester. I accept MS and PhD students through the Biological and Environmental Sciences graduate program (http://web.uri.edu/cels-gradprograms/bes/) in the College of the Environement and Life Sciences, with a specialization in Evolutionary Biology (https://web.uri.edu/cels-gradprograms/bes/emb/) or Cell and Molecular Biology (https://web.uri.edu/cels-gradprograms/bes/cmb/). Support is available through TA and RA positions.
 
 If you're interested in graduate school, show me you have the potential to do well in graduate school. Potential means you can communicate well in your email, you have done research as an undergraduate or graduate student (so you know that’s what you want to do for the next 2-5 years), and you work hard. However, don't feel intimidated by these requests. If you got excited about something you learned in class and haven't done research contact me anyway. I do not require prior programming experience. However, you should expect to do a lot of computational work in the lab, so make sure that spending time computing sounds okay. See [here](https://sukumaranlab.org/resources/computational-skills/#a-modern-robust-object-oriented-and-scaleable-scripting-language-python) for some things you'll learn.
 
@@ -16,19 +16,24 @@ Send your C.V. or resume. It helps me to see your experience. If you don’t kno
 
 For additional advice see http://theprofessorisin.com/2011/07/25/how-to-write-an-email-to-a-potential-ph-d-advisor/
 
-### Prospective Postdocs
-If you are interested in working with me, please contact me by email. Postdocs must have a Ph.D. in hand before the start date. I welcome contact well prior to completion of a Ph.D. to plan for postdoc fellowship applications. Inquiries for this position should demonstrate good written communication skills, and please, no form letters.
+#### Expectations
 
-[Expectations]
+* Conduct research in phylogenomics / bioinformatics as appropriate to your funding, making regular progress 
+* Communicate regularly with the professor 
+* Write and submit manuscripts
+* Apply for external funding (either individual postdoc fellowships or contribute to larger grants)
+* Maintain data, code, and documentation in a reproducible way available on the HPC and/or github
+* Support the research of other lab members, including assisting with manuscipts and coding
+* Participate in weekly lab meetings
+* Contribute to a collaborative atmosphere in the lab
+* Be available in the lab for a minimum pre-arranged set of hours to facilitate interactions
 
-## Prospective Graduate Students
-If you are interested in working with me, please contact me by email as early as possible. Prospective students should plan to visit in the fall. The deadline for the receipt of completed applications is January 15 for admission to the Fall semester. I accept MS and PhD students through the Biological and Environmental Sciences graduate program (http://web.uri.edu/cels-gradprograms/bes/) in the College of the Environement and Life Sciences, with specialization in Evolutionary Biology (http://web.uri.edu/cels-gradprograms/ieb/) or Cell and Molecular Biology (http://web.uri.edu/cels-gradprograms/cmb/). Support is available through TA and RA positions.
+#### How I will support you
 
-[Expectations]
-
-[Why URI]
-
-## Undergraduates
-If you are an undergraduate interested in working in my lab, please read the research page and the following expectations and responsibilities, then email me (1) your resume, (2) your transcript, and (3) a paragraph describing your research interests and course background.
-
-[Expectations]
+* Support the development of project ideas, including independent projects that can be taken with the postdoc
+* Collaborate on papers 
+* Assist with writing postdoctoral fellowships and grants
+* Collaboratively develop a career plan and support you gaining the skills you need to work toward your goals
+* Support travel to at least one meeting per year
+* Meet regularly to discuss progress and plan future work
+* Maintain an inclusive lab environment conducive to successful work of all lab members

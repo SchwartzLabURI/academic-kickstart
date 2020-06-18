@@ -40,13 +40,6 @@ Rachel Schwartz is an Assistant Professor at the University of Rhode Island. I r
 <i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:literman@uri.edu)
 
 <br clear="all">
-<img src="tejashree-120x160.jpg" align="left" hspace="10" width="30%">
-<br><br>
-[Tejashree Modak](tejashree.html) is a postdoctoral researcher developing computational tools to identify and characterize duplications in genomes in order to understand their role and evolutionary significance.
-
-<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:tejashree@uri.edu)
-
-<br clear="all">
 
 <hr>
 ## Graduate Students
@@ -76,22 +69,35 @@ Yana Hrytseno is a PhD student in Computer Science working with Noah Daniels and
 <hr>
 ## Undergraduates
 
-Caitlin Guccione (URI MS Applied Math '20 and CS '20) is applying machine learning methods to SISRS output to categorize potentially noise in phylogenetic markers.
+Caitlin Guccione (URI MS Applied Math '20 and CS '20) is applying machine learning methods to SISRS output to categorize potentially misleading information in phylogenetic markers. Starting Fall 2020 she will be a PhD student at UCSD in Bioinformatics.
 
-Fidaa Janoudi is developing a website for undergraduates to understand the research done at URI.
+Alexandra (Lexi) Johnson (URI BIO '20) is using SISRS to examine relationships among the genus Solanum.
 
-Tiantian Gousie (URI BIO '20) is using SISRS to examine how different datasets result in different phylogenies in birds. 
-
-Devin McConnell (URI CS '19) is updating and documenting SISRS code.
+Jewel Voyer (URI BIO '21) is using SISRS to examine relationships among the genus Ixodes.
 
 <hr>
 ## Alumni
 
-#### Undergraduates
+<br clear="all">
+<img src="tejashree-120x160.jpg" align="left" hspace="10" width="30%">
+<br><br>
+[Tejashree Modak](tejashree.html) was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a postdoctoral researcher in the [Putnam lab](http://putnamlab.com/) at URI.
 
-Baizat Ibrahim (URI CMB '19)
+<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:tejashree@uri.edu)
+
+### Undergraduates
+
+Fidaa Janoudi (URI ESM '20) worked in the lab as an undergraduate to develop a website for undergraduates to understand the research done at URI.
+
+Tiantian Gousie (URI BIO '20) was an undergraduate in the lab who used SISRS to examine how different datasets result in different phylogenies in birds. She is currently a Research Assistant at Salve Regina University.
+
+Devin McConnell (URI CS '19) worked on updating and documenting SISRS code. He is currently a PhD student at UConn in CS.
+
+Baizat Ibrahim (URI CMB '19) is currently a Medical Scribe.
 
 AY Akintomide (URI CMB '20)
+
+Nicholas Barone (URI Kinesiology '19) is currently a Medical Scribe.
 
 Talia Santos (URI BIO '18)
 
