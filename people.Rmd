@@ -31,7 +31,7 @@ Rachel Schwartz is an Assistant Professor at the University of Rhode Island. I r
 
 <img src="Bob_And_Rubin.jpg" align="right" hspace="10" width="30%">
 <br><br>
-[Robert (Bob) Literman](bob.html) is an NSF Postdoctoral Fellow developing computational methods to identify and classify high-information and low-information subsets of phylogenomics data. 
+[Dr. Robert (Bob) Literman](bob.html) is an NSF Postdoctoral Fellow developing computational methods to identify and classify high-information and low-information subsets of phylogenomics data. 
 
 <i class="fa fa-twitter fa-lg"></i> [BobLiterman](https://twitter.com/BobLiterman)
 
@@ -78,12 +78,17 @@ Jewel Voyer (URI BIO '21) is using SISRS to examine relationships among the genu
 <hr>
 ## Alumni
 
+### Postdocs 
+
 <br clear="all">
 <img src="tejashree-120x160.jpg" align="left" hspace="10" width="30%">
 <br><br>
-[Tejashree Modak](tejashree.html) was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a postdoctoral researcher in the [Putnam lab](http://putnamlab.com/) at URI.
+[Dr. Tejashree Modak](tejashree.html) was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a postdoctoral researcher in the [Putnam lab](http://putnamlab.com/) at URI.
 
 <i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:tejashree@uri.edu)
+
+<br clear="all">
+<hr>
 
 ### Undergraduates
 
