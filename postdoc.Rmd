@@ -12,6 +12,7 @@ The position will be for one year with the expectation of renewal on successful 
 Please read the [expectations and responsibilities](positions.html) prior to applying for this position.
 
 Required skills and expectations:
+
 * PhD by the time of hire in a biological or computational field with work relevant to bioinformatics and evolutionary biology
 * Record of academic success, including at least one published paper
 * Background in phylogenetics and evolution
@@ -20,6 +21,7 @@ Required skills and expectations:
 * Commitment to supporting diverse students and an inclusive lab environment
 
 Preferred skills: 
+
 * Experience working in an HPC environment
 * Experience developing software (e.g. R packages)
 * Experience with machine learning tools (e.g. Scikit-learn)
@@ -33,9 +35,10 @@ Salary: $50,000 plus family medical benefits. A limited moving subsidy and neces
 Location: URI is located in the southern part of Rhode Island, approximately a 40 minute drive from Providence and a 10 minute drive to multiple beaches. The Schwartz Lab is housed on the main URI campus in Kingston in the new Center for Biotechnology and the Life Sciences.
 
 To apply, please submit the following applications materials:
-- Cover letter
-- CV
-- Names of three academic/professional references
+
+* Cover letter
+* CV
+* Names of three academic/professional references
 
 Submit application materials and any questions about this position to Rachel Schwartz, rsschwartz@uri.edu.
 Application review will begin on August 1 with an expected start date between January 1 and June 30, 2021.
