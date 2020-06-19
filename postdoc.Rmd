@@ -4,7 +4,7 @@ title: "Postdoctoral Position"
 
 The Schwartz Lab in the College of the Life Sciences and the Environment at the University of Rhode Island is hiring a Postdoctoral Researcher for a project funded by the National Science Foundation.
 The researcher will use computational tools, including machine learning, to examine phylogenetic datasets.
-The postdoc will be expected to lead data analysis, apply for additional funding, collaborate with graduate students and undergraduates, and produce results resulting in publications.
+The postdoc will be expected to lead data analysis, apply for additional funding, collaborate with graduate students and undergraduates, and publish results.
 Prior experience with genetic data, phylogenetics, and scripting is expected.
 No prior experience with machine learning is necessary, but a willingness to learn is required.
 The position will be for one year with the expectation of renewal on successful performance.
