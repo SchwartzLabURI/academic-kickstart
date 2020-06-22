@@ -60,7 +60,7 @@ Rachel Schwartz is an Assistant Professor at the University of Rhode Island. I r
 
 <br clear="all">
 
-Yana Hrytseno is a PhD student in Computer Science working with Noah Daniels and in the Schwartz Lab.
+Yana Hrytseno is a PhD student in Computer Science working with Dr. Noah Daniels and in the Schwartz Lab. Yana's research interests include computational biology, population and cancer genomics. Her work is directed towards discovering broad-scale similarities between different types of cancer.
 
 <i class="fa fa-github fa-lg"></i> [Github](https://github.com/YanaHrytsenko)
 
