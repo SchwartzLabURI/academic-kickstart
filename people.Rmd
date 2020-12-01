@@ -27,21 +27,7 @@ Rachel Schwartz is an Assistant Professor at the University of Rhode Island. I r
 <br clear="all">
 
 <hr>
-## Postdocs
 
-<img src="Bob_And_Rubin.jpg" align="right" hspace="10" width="30%">
-<br><br>
-[Dr. Robert (Bob) Literman](bob.html) is an NSF Postdoctoral Fellow developing computational methods to identify and classify high-information and low-information subsets of phylogenomics data. 
-
-<i class="fa fa-twitter fa-lg"></i> [BobLiterman](https://twitter.com/BobLiterman)
-
-<i class="fa fa-github fa-lg"></i> [Github](https://github.com/BobLiterman)
-
-<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:literman@uri.edu)
-
-<br clear="all">
-
-<hr>
 ## Graduate Students
 
 <img src="eren_crop.jpg" align="right" hspace="10" width="30%">
@@ -69,10 +55,6 @@ Yana Hrytseno is a PhD student in Computer Science working with Dr. Noah Daniels
 <hr>
 ## Undergraduates
 
-Caitlin Guccione (URI MS Applied Math '20 and CS '20) is applying machine learning methods to SISRS output to categorize potentially misleading information in phylogenetic markers. Starting Fall 2020 she will be a PhD student at UCSD in Bioinformatics.
-
-Alexandra (Lexi) Johnson (URI BIO '20) is using SISRS to examine relationships among the genus Solanum.
-
 Jewel Voyer (URI BIO '21) is using SISRS to examine relationships among the genus Ixodes.
 
 <hr>
@@ -83,22 +65,38 @@ Jewel Voyer (URI BIO '21) is using SISRS to examine relationships among the genu
 <br clear="all">
 <img src="tejashree-120x160.jpg" align="left" hspace="10" width="30%">
 <br><br>
-[Dr. Tejashree Modak](tejashree.html) was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a postdoctoral researcher in the [Putnam lab](http://putnamlab.com/) at URI.
+[Dr. Tejashree Modak](https://tejashree1modak.github.io/) was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a bioinformatics scientist with [Pillar Biosciences](https://pillar-biosciences.com/).
 
 <i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:tejashree@uri.edu)
+
+<br clear="all">
+
+<img src="Bob_And_Rubin.jpg" align="right" hspace="10" width="30%">
+<br><br>
+[Dr. Robert (Bob) Literman](bob.html) was an NSF Postdoctoral Fellow developing computational methods to identify and classify high-information and low-information subsets of phylogenomics data. He is currently an ORISE Fellow with the FDA.
+
+<i class="fa fa-twitter fa-lg"></i> [BobLiterman](https://twitter.com/BobLiterman)
+
+<i class="fa fa-github fa-lg"></i> [Github](https://github.com/BobLiterman)
+
+<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:literman@uri.edu)
 
 <br clear="all">
 <hr>
 
 ### Undergraduates
 
-Fidaa Janoudi (URI ESM '20) worked in the lab as an undergraduate to develop a website for undergraduates to understand the research done at URI.
+Caitlin Guccione (URI MS Applied Math '20 and CS '20) applied machine learning methods to SISRS output to categorize potentially misleading information in phylogenetic markers. She is currently a PhD student at UCSD in Bioinformatics.
+
+Alexandra (Lexi) Johnson (URI BIO '20) worked on using SISRS to examine relationships among the genus Solanum.
+
+Fidaa Janoudi (URI ESM '20) worked in the lab as an undergraduate to develop a website for undergraduates to understand the research done at URI. She is currently a Masters student at URI.
 
 Tiantian Gousie (URI BIO '20) was an undergraduate in the lab who used SISRS to examine how different datasets result in different phylogenies in birds. She is currently a Research Assistant at Salve Regina University.
 
 Devin McConnell (URI CS '19) worked on updating and documenting SISRS code. He is currently a PhD student at UConn in CS.
 
-Baizat Ibrahim (URI CMB '19) is currently a Medical Scribe.
+Baizat Ibrahim (URI CMB '19) is currently in a post-baccalaureate pre-medical program.
 
 AY Akintomide (URI CMB '20)
 

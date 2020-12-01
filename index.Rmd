@@ -9,4 +9,4 @@ We also work to make our research reproducible and teach research skills to stud
 
 Interested in joining the lab as a graduate or undergraduate student? [Contact me](contact.html).
 
-[Available postdoc position in the lab](postdoc.html)
+[Available position for a graduate student in the lab](grad.html)
