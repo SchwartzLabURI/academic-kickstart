@@ -2,8 +2,6 @@
 title: "Graduate Student Position"
 ---
 
-PhD or Masters Student position in Phylogenomics / Bioinformatics 
-
 A graduate student position is available in the Schwartz Lab in the College of the Life Sciences and the Environment at the University of Rhode Island to work on projects in phylogenomics starting in Fall 2021. 
 The lab is focused on understanding evolutionary history using genomic datasets. 
 We also develop methods and software for researchers interested in empirical questions. 
@@ -16,7 +14,7 @@ Required skills and expectations:
 * B.S. or M.S. in Evolution or Bioinformatics or a related field (e.g. Biology)
 * Background and interest in phylogenetics and evolution
 * Commitment to participating in a collaborative and inclusive lab environment
-* Prior research experience (e.g. summer internship, work in research lab)
+* Prior research experience (e.g. summer internship, work in a research lab)
 * Interest in computational research
 
 Preferred skills: 
@@ -26,7 +24,7 @@ Preferred skills:
 * Experience working in an HPC environment
 * Demonstrated writing skills
 
-This position will be partly funded by URI RA support and partly by an NSF grant. The student will also be expected to TA (for example Introductory Biology lab). Students from backgrounds that have been excluded from science due to ethnicity or race are particularly encouraged to apply. 
+This position will be partly funded by URI RA support and partly by an NSF grant. The student will also be expected to TA (for example Introductory Biology lab). Students from backgrounds that have been excluded from science due to ethnicity or race are particularly encouraged to apply. Questions are always welcome, especially if you are interested but not sure about the research or your experience. It is always best to ask.
 
 Location: URI is located in the southern part of Rhode Island, approximately a 40 minute drive from Providence and a 10 minute drive to multiple beaches. The Schwartz Lab is housed on the main URI campus in Kingston in the new Center for Biotechnology and the Life Sciences.
 

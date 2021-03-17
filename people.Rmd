@@ -28,6 +28,23 @@ Rachel Schwartz is an Assistant Professor at the University of Rhode Island. I r
 
 <hr>
 
+## Postdoctoral Researchers
+
+<img src="Alex_photo.jpg" align="right" hspace="10" width="30%">
+<br><br>
+Alex Knyshov is a Postdoctoral Researcher working on examination of phylogenomic datasets using a variety of computational tools, including machine learning.
+<i class="fa fa-envelope-o fa-lg"></i> [Email](aknyshov@uri.edu)
+
+<i class="fas fa-browser fa-lg"></i> [Website](https://alexknyshov.github.io)
+
+<i class="fa fa-github fa-lg"></i> [Github](https://github.com/AlexKnyshov)
+
+<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/AlexKnyshov)
+
+<i class="fa fa-google fa-lg"></i> [Google Scholar](https://scholar.google.com/citations?user=UA5LFugAAAAJ)
+
+<hr>
+
 ## Graduate Students
 
 <img src="eren_crop.jpg" align="right" hspace="10" width="30%">
@@ -55,7 +72,9 @@ Yana Hrytseno is a PhD student in Computer Science working with Dr. Noah Daniels
 <hr>
 ## Undergraduates
 
-Jewel Voyer (URI BIO '21) is using SISRS to examine relationships among the genus Ixodes.
+Jewel Voyer (URI BIO '22) is using SISRS to examine relationships among the genus Ixodes.
+
+Alyssa Hartmann (URI BIO '21) is identifying cellulose synthase genes across mosses to determine how this gene family arose.
 
 <hr>
 ## Alumni

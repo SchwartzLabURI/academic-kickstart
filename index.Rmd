@@ -7,6 +7,4 @@ We are a dry lab focused on computational evolutionary genetics. We develop meth
 
 We also work to make our research reproducible and teach research skills to students and other researchers.
 
-Interested in joining the lab as a graduate or undergraduate student? [Contact me](contact.html).
-
-[Available position for a graduate student in the lab](grad.html)
+Interested in joining the lab as a graduate or undergraduate student? [Contact me](contact.html). I always have openings for undergraduates and expect to accept a new graduate student to start in Fall 2022.
