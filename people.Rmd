@@ -70,6 +70,10 @@ Yana Hrytseno is a PhD student in Computer Science working with Dr. Noah Daniels
 
 <i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:yana_hrytsenko@my.uri.edu)
 
+<br clear="all">
+
+Leann Biancani will be joining the lab in Fall 2021 as a PhD student in the BES program. Leann got her BS at Brown University and then continued at Brown as a Lab Manager and Research Assistant for David Rand. She then moved to the University of Maryland for her Masters. Before starting her PhD, Leann taught at the Wheeler School.
+
 <hr>
 ## Undergraduates
 
